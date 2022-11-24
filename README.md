@@ -11,7 +11,6 @@ $ docker run --rm titom73/curl -fsSL https://www.google.com/
 ## Tags
 
 * `titom73/curl:latest`: based on `alpine:latest`
-* `titom73/curl:edge`: based on `alpine:edge`
 
 ## License
 
